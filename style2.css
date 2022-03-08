@@ -1,0 +1,13 @@
+body
+{
+	background: rgb(72, 196, 30);
+}
+#output
+{
+background: rgb(63, 45, 182);
+border-radius: 10px;
+border-top: 10px solid #0fcc2e;
+padding: 10px;
+float: none;
+text-align: left ;
+}
